@@ -1,0 +1,6 @@
+2024/05/23-09:40:53.825 1f58 Creating DB C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/05/23-09:40:53.828 1f58 Reusing MANIFEST C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/23-09:42:52.316 3d80 Level-0 table #5: started
+2024/05/23-09:42:52.317 3d80 Level-0 table #5: 1167 bytes OK
+2024/05/23-09:42:52.319 3d80 Delete type=0 #3
+2024/05/23-09:42:52.319 3d80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

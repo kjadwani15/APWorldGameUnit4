@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/DD_InventorySlot.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/Materials/MUI_Circle.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_DragPreview.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_InventorySlot.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9L/NP5A445DD3HFB57FU7DPY2.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/Merchant.uasset",
+				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/Chest.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/Materials/MUI_Circle.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_PlayerMenu.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_DragPreview.uasset",
@@ -46,15 +53,10 @@
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/NPC/ArabMan.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/8M/NNLUWBJ743QFYABK3BV10U.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/N1/BWFWB2UCHJF7G7YX9UL84B.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/DD_InventorySlot.uasset",
 				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_DragMenu.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/Materials/MUI_Circle.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_DragPreview.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_InventorySlot.uasset",
 				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
 				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9L/NP5A445DD3HFB57FU7DPY2.uasset"
+				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset"
 			]
 		}
 	]
