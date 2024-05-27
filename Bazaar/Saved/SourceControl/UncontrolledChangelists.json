@@ -5,19 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Untitled.umap",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/StarterContent/Props/Materials/M_Chair.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/NPC/Standing_Arguing.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/NPC/Standing_Arguing_Anim.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/NPC/Standing_Arguing_PhysicsAsset.uasset"
-=======
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_Action_Menu.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_InventorySlot.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/Materials/MUI_Message.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9Z/6H27W80ODBK4B0KK4QHO4P.uasset",
-				"C:/Users/Student/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_DisplayMessage.uasset"
->>>>>>> 9c3e48a06580f222c444481b571aaf27f9b5ffca
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/Materials/MUI_Message.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ui/W_DisplayMessage.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/InventorySystem.uasset"
 			]
 		}
 	]
