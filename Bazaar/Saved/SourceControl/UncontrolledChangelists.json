@@ -11,7 +11,6 @@
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/NPC/Idle.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/Merchant.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0F/ZYFUVU07KXJAABTWWWO070.uasset",
-				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/Merchant2.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/NPC/Sitting_Laughing.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/NPC/Sitting_Laughing_Anim.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/NPC/Sitting_Laughing_PhysicsAsset.uasset",
@@ -37,7 +36,21 @@
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Dialougue/BP_Dialogue.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Dialougue/W_Dialogue.uasset",
 				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/G5/DVJTTPKJO6CHKUQK4OEGG3.uasset"
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/G5/DVJTTPKJO6CHKUQK4OEGG3.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Dialougue/Porcalein.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/items/Spices.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/ItemDataTable.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/Merhcant-Porcalain.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/Gate-Merchant.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/itemData.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/items/Icons/powder-bag.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/R4/9B2Q19KF9LDGX7F7OZNY01.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/PlayerHUD.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/PU/KHE9FAS9O3135VO29PPV4J.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/I3/A8VBT9R5AP1AVW5CEZJT0L.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Inventory/Merchant2.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Dialougue/Porcalein_dialogue.uasset",
+				"C:/Users/jadwa/OneDrive/Documents/Unreal Projects/worldGameBazaar/Bazaar/Content/Dialougue/NewBlueprint.uasset"
 			]
 		}
 	]
