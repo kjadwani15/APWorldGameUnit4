@@ -1,4 +1,4 @@
-# worldGameBazaar
+# Game Hopper Actual
 make sure open terminal in worldGameBazaar directory
 
 to fetch:
