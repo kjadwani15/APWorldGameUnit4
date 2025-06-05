@@ -1,2 +1,3 @@
-2025/02/18-20:29:04.987 5b28 Creating DB C:/Users/jadwa/OneDrive/Documents/Unreal Projects/APWorldGameUnit4/Unit_3/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/02/18-20:29:04.999 5b28 Reusing MANIFEST C:/Users/jadwa/OneDrive/Documents/Unreal Projects/APWorldGameUnit4/Unit_3/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/03-21:14:13.926 42ec Reusing MANIFEST C:/Users/jadwa/OneDrive/Documents/Unreal Projects/APWorldGameUnit4/Unit_3/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/03-21:14:13.939 42ec Recovering log #3
+2025/06/03-21:14:13.940 42ec Reusing old log C:/Users/jadwa/OneDrive/Documents/Unreal Projects/APWorldGameUnit4/Unit_3/Saved/webcache_4430\Local Storage\leveldb/000003.log 
