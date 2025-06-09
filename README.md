@@ -1,4 +1,9 @@
 # AP World Game Unit 4
+
+This is the current unfinished version of the Unreal Engine 5 AP World Game. 
+
+
+# Commands 
 make sure open terminal in worldGameBazaar directory
 
 to fetch:
