@@ -1,0 +1,10 @@
+# Unreal Engine temporary / build files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Optional: ignore other temp stuff
+*.log
+*.pdb
+*.suo
